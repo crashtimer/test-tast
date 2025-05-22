@@ -1,0 +1,16 @@
+.button {
+  min-width: 100px;
+  padding: var(--gap-sm);
+  border: 1px solid var(--border-color);
+  background-color: var(--input-bg);
+  border-radius: var(--border-radius-md);
+  transition: opacity 0.3s ease;
+}
+
+.button:hover {
+  opacity: 0.6;
+}
+
+.button:active {
+  opacity: 0.2;
+}

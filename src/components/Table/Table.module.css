@@ -1,0 +1,15 @@
+.table {
+  width: 100%;
+}
+
+.table th {
+  text-align: left;
+  padding: var(--gap-sm);
+  border: 1px solid var(--border-color);
+}
+
+.table td {
+  text-align: left;
+  padding: var(--gap-sm);
+  border: 1px solid var(--border-color);
+}

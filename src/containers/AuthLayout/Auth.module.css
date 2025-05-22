@@ -1,0 +1,12 @@
+.auth {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  width: 100%;
+  gap: var(--gap-lg);
+  padding: var(--gap-lg);
+  margin: 0 auto;
+  max-width: 400px;
+  justify-content: center;
+}

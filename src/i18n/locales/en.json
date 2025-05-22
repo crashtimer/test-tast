@@ -1,0 +1,31 @@
+{
+  "login": {
+    "title": "Login",
+    "username": "Username",
+    "button": "Login"
+  },
+  "header": {
+    "logout": "Logout",
+    "welcome": "Welcome, {{username}}",
+    "booksCount": "Your books: {{count}}"
+  },
+  "books": {
+    "title": "Books",
+    "author": "Author",
+    "name": "Name",
+    "id": "ID",
+
+    "actions": {
+      "private": "Private List",
+      "reset": "Reset Books"
+    },
+
+    "form": {
+      "name": "Name",
+      "author": "Author",
+      "actions": {
+        "add": "Add Book"
+      }
+    }
+  }
+}
